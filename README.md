@@ -39,13 +39,3 @@
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=social&logo=telegram)](https://t.me/Bimmer_m3)
 [![WhatsApp](https://img.shields.io/badge/+79289203006-black?style=social&logo=WhatsApp)](https://t.me/Bimmer_m3)
 <br />
-
-## 🔥 Моя активность
-
-<!-- GitHub Readme Streak Stats - https://github.com/abuingush -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at https://github.com/abuingush" alt="DenverCoder1's streak" src="https://github.com/abuingush/Dobro"/>
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://github.com/abuingush">https://github.com/abuingush</a></p>
-</p>
