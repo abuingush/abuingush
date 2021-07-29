@@ -32,6 +32,9 @@
 > [Домонстрация](https://contractor-site.herokuapp.com)
 
 
+https://camo.githubusercontent.com/b1e81ea35ce6f6bab66081c4e467ae28db0b99028f0d5f673f2b0f357a3dedfb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d7574616c69657630362673686f775f69636f6e733d74727565267468656d653d6461726b
+
+
 ### Связаться со мной:
 
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=social&logo=telegram)](https://t.me/Bimmer_m3)
