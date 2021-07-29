@@ -45,7 +45,7 @@
 <!-- GitHub Readme Streak Stats - https://github.com/abuingush -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at https://github.com/abuingush" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at https://github.com/abuingush" alt="DenverCoder1's streak" src="https://github.com/abuingush/Dobro"/>
   </a>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://github.com/abuingush">https://github.com/abuingush</a></p>
 </p>
