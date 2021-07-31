@@ -17,7 +17,7 @@
 ![Babel](https://img.shields.io/badge/Babel-black?style=flat-square&logo=Babel)
 ![Trello](https://img.shields.io/badge/Trello-black?style=flat-square&logo=Trello)
 ![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=Figma)
-![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=Figma)
+![Prettier](https://img.shields.io/badge/Prettier-black?style=flat-square&logo=Prettier)
 <br />
 <br />
 ### Мои работы:
