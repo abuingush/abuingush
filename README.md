@@ -13,17 +13,21 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=MongoDB)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
+![Webpack](https://img.shields.io/badge/Webpack-black?style=flat-square&logo=Webpack)
+![Babel](https://img.shields.io/badge/Babel-black?style=flat-square&logo=Babel)
+![Trello](https://img.shields.io/badge/Trello-black?style=flat-square&logo=Trello)
+![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=Figma)
+![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=Figma)
 <br />
 <br />
-
 ### Мои работы:
 
-### - Волонтерский сайт Добро. Для поиска волонтеров и участия в волонтерских программах. Командный 2х недельный проект ###
+### - Волонтерский сайт Добро. Для поиска волонтеров и участия в волонтерских программах. Командный 2х недельный проект.В этом проекте я разрабатывал регистрацию, авторизацию, личный кабинет, редактирование и добавление постов, выгрузку фотографий и аватара. ###
 > [Код](https://github.com/abuingush/Dobro)
 
 > [Домонстрация](https://mern-dobro.herokuapp.com)
 
-### - Сайт для строительного подрядчика, помогающий легко вести отчетность о продвижении строительства объекта ###
+### - Сайт для строительного подрядчика, помогающий легко вести отчетность о продвижении строительства объекта. В нем можно добавлять и удалять строительные объекты, писать и редактировать отчеты, добавлять статусы. ###
 >  [Код](https://github.com/abuingush/contractor-app)
 
 > [Домонстрация](https://contractor-site.herokuapp.com)
