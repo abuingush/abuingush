@@ -18,6 +18,8 @@
 ![Trello](https://img.shields.io/badge/Trello-black?style=flat-square&logo=Trello)
 ![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=Figma)
 ![Prettier](https://img.shields.io/badge/Prettier-black?style=flat-square&logo=Prettier)
+![EsLint](https://img.shields.io/badge/EsLint-black?style=flat-square&logo=EsLint)
+![heroku](https://img.shields.io/badge/heroku-black?style=flat-square&logo=heroku)
 <br />
 <br />
 ### Мои работы:
