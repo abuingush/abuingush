@@ -39,6 +39,6 @@
 ### Связаться со мной:
 
 
-[![Telegram](https://img.shields.io/badge/Telegram-black?style=social&logo=telegram)](https://t.me/Bimmer_m3)
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=social&logo=telegram)](https://t.me/Mutaliev_M)
 [![WhatsApp](https://img.shields.io/badge/+79289203006-black?style=social&logo=WhatsApp)](+79289203006)
 <br />
