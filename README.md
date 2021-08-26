@@ -28,12 +28,14 @@
 > [Код](https://github.com/abuingush/Dobro)
 
 > [Домонстрация](https://mern-dobro.herokuapp.com)
+![gif](http://g.recordit.co/5bt9s7rjjC.gif)
+
 
 ### - Сайт для строительного подрядчика, помогающий легко вести отчетность о продвижении строительства объекта. В нем можно добавлять и удалять строительные объекты, писать и редактировать отчеты, добавлять статусы. ###
 >  [Код](https://github.com/abuingush/contractor-app)
 
 > [Домонстрация](https://contractor-site.herokuapp.com)
-
+![gif](http://g.recordit.co/fNDQEiulfy.gif)
 
 
 ### Связаться со мной:
