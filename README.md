@@ -35,7 +35,7 @@
 >  [Код](https://github.com/abuingush/contractor-app)
 
 > [Домонстрация](https://contractor-site.herokuapp.com)
-![gif](http://g.recordit.co/fNDQEiulfy.gif)
+
 
 
 ### Связаться со мной:
