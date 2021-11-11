@@ -1,6 +1,7 @@
 ###  Мой стек
 
 ![JS](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javaScript)
+![TS](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux)
 ![Node-JS](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js)
